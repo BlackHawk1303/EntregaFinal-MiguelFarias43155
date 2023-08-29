@@ -38,7 +38,7 @@ function eliminarMsj(index) {
   // mostrarMsjs();
   Swal.fire({
     title: "Vas a eliminar tu comentario, ¿Estas Seguro?",
-    imageUrl: "/img/TheRock.png",
+    imageUrl: "./img/TheRock.png",
     imageWidth: 400,
     imageHeight: 400,
     imageAlt: ":D",
